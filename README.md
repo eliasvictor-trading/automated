@@ -1,0 +1,2 @@
+# automated
+Automated PineScript Indicators
