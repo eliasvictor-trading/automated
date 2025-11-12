@@ -1,6 +1,6 @@
-# automated
+# multi-time-frame
 Automated PineScript Indicators
-# MTF Checklist Dashboard - Enhanced Filters
+# Multi-Time Frame (MTF) Checklist Dashboard (with Enhanced Filters)
 
 A comprehensive multi-timeframe (MTF) analysis indicator for TradingView that provides confluence-based trading signals with advanced filtering capabilities.
 
